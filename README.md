@@ -1,6 +1,7 @@
 # Portal de Notícias
 
-Este repositório contém o projeto final desenvolvido como parte do curso online ["Curso Desenvolvedor Web"](https://www.udesc.br/cesfi/cursoweb) da Universidade do Estado de Santa Catarina (UDESC), concluído em fevereiro de 2023.
+Este repositório contém o projeto final desenvolvido como parte do curso online [Curso Desenvolvedor Web](https://www.udesc.br/cesfi/cursoweb) da Universidade do Estado de Santa Catarina (UDESC), concluído em fevereiro de 2023.
+
 ![](https://www.udesc.br/arquivos/cesfi/imagens/Curso_Desenvolvimento_WEB_full_stack_1_16560837744857_3307.png)
 
 ## Objetivo do Projeto
