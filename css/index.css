@@ -1,0 +1,33 @@
+/* Fundo para texto o carousel */
+.carousel-caption {
+    background-color: rgb(0, 0, 0, 0.8);
+}
+
+/* Responsivo */
+
+/* Adaptando links social media */
+@media screen and (max-width: 296px) {
+    section div.medialink-1 { display: none; }
+    section div.medialink-2 { display: none; }
+}
+
+/* Adaptando carousel - aqui apenas a imagem aparece formatada com link para a notícia */
+@media screen and (max-width: 318px) {
+    div.carousel-caption h5 { display: none; }
+    div.carousel-caption { background-color: transparent; }
+}
+
+/* Adaptando carousel - aqui aparece a imagem, titulo e subtitulo */
+@media screen and (max-width: 486px) {
+    div.carousel-caption p { display: none; }
+}
+
+/* Adaptando links social media */
+@media screen and (max-width: 767px) {
+    section div.medialink-1 { display: none; }
+}
+
+/* Adaptando links social media */
+@media screen and (min-width: 767px) {
+    section div.medialink-2 { display: none; }
+}

@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: lightgray;
+}
+
+.cadastroNoticias {
+    width: 800px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: #ffffff;
+}
+
+.cadastroNoticias h1 {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.cadastroNoticias form {
+    font-size: 20px;
+}
+
+.cadastroNoticias form .form-group {
+    margin-bottom: 12px;
+}
+
+.cadastroNoticias form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.logo a {
+    text-decoration: none;
+}
+
+/* Responsivo */
+
+/* Adaptando height tela */
+
+/* Ajustando height para caber na tela */
+@media screen and (max-width:310px) {
+    body { height: 170vh }
+}
+
+@media only screen and (min-width: 311px) and (max-width: 991px) {
+    body { height: 150vh }
+}
+
+@media screen and (min-width: 992px) {
+    body { height: 100vh }
+}
