@@ -5,7 +5,7 @@ Este repositório contém o projeto final desenvolvido como parte do curso onlin
 ![](https://www.udesc.br/arquivos/cesfi/imagens/Curso_Desenvolvimento_WEB_full_stack_1_16560837744857_3307.png)
 
 ## 🎋 Objetivo do Projeto
-O objetivo deste projeto é desenvolver um portal de notícias como proposto pelo curso como projeto final.
+O objetivo deste projeto é desenvolver um portal de notícias.
 
 ## 📦 Tecnologias utilizadas
 
